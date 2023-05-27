@@ -9,7 +9,7 @@ To get started with the machine learning models in this repository, follow these
 
 1. Clone the repository to your local machine: https://github.com/Horlatunjiey1/Flight-Delay-ML-Model-Evaluation
 2. Install the required Python packages. Install them using pip:
-3. Navigate to the `Notebooks` directory to explore the Jupyter notebooks showcasing the implemented models.
+3. Navigate to the `Notebook` directory to explore the Jupyter notebook showcasing the implemented models.
 4. Run the code cells in the notebook to see the model in action with the provided example datasets.
 
 ## Included Models
